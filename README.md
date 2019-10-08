@@ -4,13 +4,13 @@ Handmade handwrite Slack Emoji
 
 スマホアプリでちまちま作ってきたSlack用絵文字を配布します。
 
-![ありがと](./emojis/arigato_handwrite.png)
-![せやね](./emojis/seyane_handwrite.png)
-![すまんの](./emojis/sumannno_handwrite.png)
+![ありがと](./emojis/basic/arigato_handwrite.png)
+![せやね](./emojis/basic/seyane_handwrite.png)
+![すまんの](./emojis/basic/sumannno_handwrite.png)
 
 うごくよ
 
-![いぬ](./emojis/inu_handwrite_gif.gif)
+![いぬ](./emojis/motto/inu_handwrite_gif.gif)
 
 # 使い方
 
