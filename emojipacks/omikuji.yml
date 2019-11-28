@@ -1,0 +1,15 @@
+---
+title: omikuji
+emojis:
+- name: suekichi_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/omikuji/suekichi_handwrite.png
+- name: daikichi_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/omikuji/daikichi_handwrite.png
+- name: kyou_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/omikuji/kyou_handwrite.png
+- name: chukichi_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/omikuji/chukichi_handwrite.png
+- name: daikyou_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/omikuji/daikyou_handwrite.png
+- name: kichi_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/omikuji/kichi_handwrite.png

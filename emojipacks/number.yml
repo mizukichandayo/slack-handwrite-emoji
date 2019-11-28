@@ -1,0 +1,23 @@
+---
+title: number
+emojis:
+- name: 8_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/number/8_handwrite.png
+- name: 6_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/number/6_handwrite.png
+- name: 2_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/number/2_handwrite.png
+- name: 5_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/number/5_handwrite.png
+- name: 1_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/number/1_handwrite.png
+- name: 0_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/number/0_handwrite.png
+- name: 4_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/number/4_handwrite.png
+- name: 3_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/number/3_handwrite.png
+- name: 7_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/number/7_handwrite.png
+- name: 9_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/number/9_handwrite.png

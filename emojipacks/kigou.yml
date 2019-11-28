@@ -1,0 +1,23 @@
+---
+title: kigou
+emojis:
+- name: spade_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/kigou/spade_handwrite.png
+- name: nijumaru_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/kigou/nijumaru_handwrite.png
+- name: anger_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/kigou/anger_handwrite.png
+- name: diamond_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/kigou/diamond_handwrite.png
+- name: star_02_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/kigou/star_02_handwrite.png
+- name: odoroki_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/kigou/odoroki_handwrite.png
+- name: yen_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/kigou/yen_handwrite.png
+- name: star_01_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/kigou/star_01_handwrite.png
+- name: heart_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/kigou/heart_handwrite.png
+- name: manji_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/kigou/manji_handwrite.png

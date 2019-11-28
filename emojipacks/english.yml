@@ -1,0 +1,21 @@
+---
+title: english
+emojis:
+- name: winner_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/english/winner_handwrite.png
+- name: jump_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/english/jump_handwrite.png
+- name: tgif_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/english/tgif_handwrite.png
+- name: omg_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/english/omg_handwrite.png
+- name: do_it_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/english/do_it_handwrite.png
+- name: ng_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/english/ng_handwrite.png
+- name: yes_you_can_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/english/yes_you_can_handwrite.png
+- name: no_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/english/no_handwrite.png
+- name: go_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/english/go_handwrite.png

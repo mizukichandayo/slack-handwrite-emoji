@@ -1,0 +1,31 @@
+---
+title: engineer
+emojis:
+- name: test_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/test_handwrite.png
+- name: common_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/common_handwrite.png
+- name: jenkins_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/jenkins_handwrite.png
+- name: centime_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/centime_handwrite.png
+- name: desuma_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/desuma_handwrite.png
+- name: santeam_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/santeam_handwrite.png
+- name: piyo_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/piyo_handwrite.png
+- name: fuga_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/fuga_handwrite.png
+- name: hoge_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/hoge_handwrite.png
+- name: tomcat_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/tomcat_handwrite.png
+- name: mokumoku_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/mokumoku_handwrite.png
+- name: infra_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/infra_handwrite.png
+- name: jenkins_angry_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/jenkins_angry_handwrite.png
+- name: github_handwrite
+  src: https://github.com/mizukichandayo/slack-handwrite-emoji/blob/master/emojis/engineer/github_handwrite.png
